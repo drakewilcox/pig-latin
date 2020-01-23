@@ -13,7 +13,7 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 * _This program does nothing to non-alphabetical characters, since they do not contain consonants or vowels.
   example input: 3
   example output: 3
-* _The program adds "ay" to single-letter words beginning with a vowel.
+* _The program adds "way" to single-letter words beginning with a vowel.
   Example Input: i
   Example Output: iay 
 
